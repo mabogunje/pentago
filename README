@@ -7,5 +7,3 @@ DESCRIPTION
 This is a python implementation of the Pentago game found here: http://pentago.com/home.html
 This version autosaves as you play to a file called pentago.sav
 
-For instructions on how to play, visit: https://www.cs.drexel.edu/~jpopyack/Courses/AI/-Fa11/assignments/HW4/index.html 
-
